@@ -3,7 +3,7 @@
 <div>
  <img align="left" src="https://via.placeholder.com/310x340/FFFFFF/000000?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true" alt="blackphlox-placeholder" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox" alt="blackphlox-placeholder" />
+ <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox" alt="blackphlox-placeholder" /></a>
 </div>
 
 <!---Ha ha ha markdown go:---><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
