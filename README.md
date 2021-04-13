@@ -1,12 +1,12 @@
 
 # Stats:
 <div>
-  
-![](https://via.placeholder.com/250x400/FFFFFF/000000?text=Black+Phlox+-+Milr)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox)](https://github.com/anuraghazra/github-readme-stats)
-
+ <img align="left" src="https://via.placeholder.com/250x340/FFFFFF/000000?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true" alt="blackphlox-placeholder" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox" alt="blackphlox-placeholder" />
 </div>
+
+<!---Ha ha ha markdown go:---><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # Game Jams:
 
