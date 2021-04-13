@@ -23,3 +23,6 @@
 
 ### [Level One Jam Discord Bot - Achievement Manager](#) - Written in Node.js
 ![image](https://user-images.githubusercontent.com/25123512/114582385-d4827b00-9c80-11eb-9e3e-1a7e0af7c673.png)
+
+## [FirmwareGuard+](https://www.linkedin.com/feed/update/urn:li:activity:6575663608267706368)
+Developed FirmwareGuard+ for Cryptera. SAAS that allows their customers to do secure provisioning remotely as a service without requiring IoT devices to be transported to get firmware loaded.
