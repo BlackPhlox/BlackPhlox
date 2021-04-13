@@ -1,9 +1,12 @@
 
 # Stats:
-![](https://via.placeholder.com/250x100/FFFFFF/000000?text=Black+Phlox+-+Milr)
-
+<div>
+  
+![](https://via.placeholder.com/250x400/FFFFFF/000000?text=Black+Phlox+-+Milr)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 # Game Jams:
 
@@ -21,7 +24,7 @@
 ## Level One Jam
 ### [Level One Jam 2020 Website](https://levelonejam.com) - written using [HUGO](https://gohugo.io) and [Bulma](https://bulma.io), backend made using JavaScript and Google Sheets API.
 
-### [Level One Jam Video](https://www.youtube.com/watch?v=_2BVvSVlDF0) - Made using [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), thanks to [@myhairis_blue](https://twitter.com/myhairis_blue) for the amazing VO.
+### [Level One Jam Video](https://www.youtube.com/watch?v=_2BVvSVlDF0) - made using [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), thanks to [@myhairis_blue](https://twitter.com/myhairis_blue) for the amazing VO.
 
 
 ### [Level One Jam Lottery](#) - written in Javascript using [P5.js](https://p5js.org) and WebGL elements, backend in [Dark](https://darklang.com).
