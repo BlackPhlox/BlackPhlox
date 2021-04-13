@@ -55,3 +55,10 @@ Implementing [Logic Friday](https://logic-friday.software.informer.com) function
 <img align="left" src="https://user-images.githubusercontent.com/25123512/114621222-bb8fbf00-9cac-11eb-938e-eef101ff936c.gif" alt="HeapSort" width="180"/>
 <img align="left" src="https://user-images.githubusercontent.com/25123512/114621244-c0547300-9cac-11eb-843c-bd4d0f7252cb.gif" alt="InsertionSort" width="180"/>
 <img align="left" src="https://user-images.githubusercontent.com/25123512/114620697-212f7b80-9cac-11eb-954b-5aacfb52b224.gif" alt="QuickSort" width="180"/>
+
+</br></br></br></br></br></br>
+
+## [CookieMonster](https://github.com/BlackPhlox/CookieMonster)
+Cross site scripting(XSS) cookie-fetch server, used for educational perpose only. [Demo](https://milr.dk/CookieMonster/public)
+
+<img align="left" src="https://repository-images.githubusercontent.com/188903652/86992800-8c4f-11e9-80de-9b207f34b8db" alt="cookiemonster" width="300"/>
