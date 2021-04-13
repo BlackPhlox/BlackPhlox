@@ -43,6 +43,12 @@ Easy GUI development in Rust.
 
 Implementing [Logic Friday](https://logic-friday.software.informer.com) functionailty in a functional language.
 
+
+<img align="left" src="https://user-images.githubusercontent.com/25123512/114621884-8c2d8200-9cad-11eb-8c7f-c7d88bdaabbc.png" alt="logictree" width="200"/>
+<img align="left" src="https://user-images.githubusercontent.com/25123512/114621894-8f287280-9cad-11eb-8d3d-17aefe21ea93.png" alt="truthtable" width="180"/>
+
+</br></br></br></br>
+
 ## [SimpleSortViz](https://github.com/BlackPhlox/SimpleSortViz) 
 
 <img align="left" src="https://user-images.githubusercontent.com/25123512/114620995-79667d80-9cac-11eb-8d25-dca14c9dbe8a.gif" alt="BubbleSort" width="180"/>
