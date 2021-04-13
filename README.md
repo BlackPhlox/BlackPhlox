@@ -1,6 +1,6 @@
 
 # Stats:
-![](https://via.placeholder.com/500x100/FFFFFF/000000?text=Black+Phlox+-+Milr)
+![](https://via.placeholder.com/250x100/FFFFFF/000000?text=Black+Phlox+-+Milr)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox)](https://github.com/anuraghazra/github-readme-stats)
