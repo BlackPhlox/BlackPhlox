@@ -38,3 +38,7 @@ Developed FirmwareGuard+ for Cryptera. SAAS that allows their customers to do se
 
 ## [Mud](https://mud.rs)
 Easy GUI development in Rust.
+
+## [Logic F Day](https://github.com/BlackPhlox/logic-f-day)
+Implementing [Logic Friday](https://logic-friday.software.informer.com) functionailty in a functional language.
+
