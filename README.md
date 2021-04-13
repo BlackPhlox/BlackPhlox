@@ -1,7 +1,7 @@
 
 # Stats:
 <div>
- <img align="left" src="https://via.placeholder.com/380x340/FFFFFF/000000?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
+ <img align="left" src="https://via.placeholder.com/350x340/FFFFFF/000000?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true" alt="blackphlox-placeholder" />
  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox" alt="blackphlox-placeholder" />
 </div>
