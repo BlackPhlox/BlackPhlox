@@ -45,7 +45,7 @@ Implementing [Logic Friday](https://logic-friday.software.informer.com) function
 
 ## [SimpleSortViz](https://github.com/BlackPhlox/SimpleSortViz) 
 
-<img align="left" src="https://user-images.githubusercontent.com/25123512/114620995-79667d80-9cac-11eb-8d25-dca14c9dbe8a.gif" alt="BubbleSort" width="200"/>
-<img align="left" src="https://user-images.githubusercontent.com/25123512/114621222-bb8fbf00-9cac-11eb-938e-eef101ff936c.gif" alt="HeapSort" width="200"/>
-<img align="left" src="https://user-images.githubusercontent.com/25123512/114621244-c0547300-9cac-11eb-843c-bd4d0f7252cb.gif" alt="InsertionSort" width="200"/>
-<img align="left" src="https://user-images.githubusercontent.com/25123512/114620697-212f7b80-9cac-11eb-954b-5aacfb52b224.gif" alt="QuickSort" width="200"/>
+<img align="left" src="https://user-images.githubusercontent.com/25123512/114620995-79667d80-9cac-11eb-8d25-dca14c9dbe8a.gif" alt="BubbleSort" width="195"/>
+<img align="left" src="https://user-images.githubusercontent.com/25123512/114621222-bb8fbf00-9cac-11eb-938e-eef101ff936c.gif" alt="HeapSort" width="195"/>
+<img align="left" src="https://user-images.githubusercontent.com/25123512/114621244-c0547300-9cac-11eb-843c-bd4d0f7252cb.gif" alt="InsertionSort" width="195"/>
+<img align="left" src="https://user-images.githubusercontent.com/25123512/114620697-212f7b80-9cac-11eb-954b-5aacfb52b224.gif" alt="QuickSort" width="195"/>
