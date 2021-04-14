@@ -2,8 +2,8 @@
 # Stats 📊 :
 <div>
  <img align="left" src="https://via.placeholder.com/310x340/282A36/DD6387?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true&theme=dracula" alt="blackphlox-github-stats" />
- <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox&theme=dracula" alt="blackphlox-wakatime" /></a>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800&&border_radius=0&include_all_commits=true" alt="blackphlox-github-stats" />
+ <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox&theme=dracula&hide_border=true&cache_seconds=1800&border_radius=0&include_all_commits=true" alt="blackphlox-wakatime" /></a>
 </div>
 
 <!---Ha ha ha markdown go:---><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
