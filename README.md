@@ -1,13 +1,14 @@
 
 # Stats 📊 :
 <div>
- <img align="left" src="https://via.placeholder.com/310x340/FFFFFF/000000?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true" alt="blackphlox-github-stats" />
- <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox" alt="blackphlox-wakatime" /></a>
+ <img align="left" src="https://via.placeholder.com/310x340/282A36/DD6387?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true&theme=dracula" alt="blackphlox-github-stats" />
+ <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox&theme=dracula" alt="blackphlox-wakatime" /></a>
 </div>
 
-<!---Ha ha ha markdown go:---><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<!---Ha ha ha markdown go:---><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/>
+
 
 # Specs 🖥 :
            Processor: AMD Ryzen 7 5800X 8-Core Processor (16 CPUs), ~3.8GHz
@@ -97,6 +98,10 @@ Cross site scripting(XSS) cookie-fetch server, used for educational perpose only
 
 <img align="left" src="https://user-images.githubusercontent.com/25123512/114636685-e9363180-9cc7-11eb-85ee-3f4a80e8535c.gif" alt="ascii-engine" width="300"/>
 
+# [Configurations](https://github.com/BlackPhlox/settings-public)
 
+</br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br>
+Below is my configuration for my laptop runnign WSL. Using X-Server and some enviroment variable configuration, I'm able to startup a linux instance using a single command:
 
 ![lxde](https://user-images.githubusercontent.com/25123512/114703314-66dc5a80-9d25-11eb-9f9f-d1454e495572.gif)
