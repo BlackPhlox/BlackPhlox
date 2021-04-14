@@ -47,7 +47,7 @@ Developed [FirmwareGuard+](https://www.cryptera.com/iotsecurity/firmwareguard-ch
 
 <img align="left" src="https://www.cryptera.com/wp-content/uploads/2019/09/01_datablad_forsidebillede.jpg" alt="firmware guard plus" width="450"/>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
 </br>
 
 ## [Mud](https://mud.rs)
@@ -98,7 +98,7 @@ Cross site scripting(XSS) cookie-fetch server, used for educational perpose only
 
 <img align="left" src="https://user-images.githubusercontent.com/25123512/114636685-e9363180-9cc7-11eb-85ee-3f4a80e8535c.gif" alt="ascii-engine" width="300"/>
 
-</br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br>
 </br>
 
 # [Configurations](https://github.com/BlackPhlox/settings-public)
