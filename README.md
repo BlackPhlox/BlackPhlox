@@ -1,14 +1,13 @@
 
 # Stats 📊 :
 <div>
- <img align="left" src="https://via.placeholder.com/310x329/282A36/DD6387?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800&&border_radius=0&include_all_commits=true&layout=compact" alt="blackphlox-github-stats" />
- <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox&theme=dracula&hide_border=true&cache_seconds=1800&border_radius=0&include_all_commits=true&hide_title=true&layout=compact" alt="blackphlox-wakatime" /></a>
+ <img align="left" src="https://via.placeholder.com/310x329/000/2D98FF?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true&theme=dracula&hide_border=true&cache_seconds=7200&&border_radius=0&include_all_commits=true&layout=compact&title_color=2D98FF&text_color=FFF&bg_color=000&icon_color=2D98FF" alt="blackphlox-github-stats" />
+ <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox&theme=dracula&hide_border=true&cache_seconds=1800&border_radius=0&include_all_commits=true&hide_title=true&layout=compact&title_color=2D98FF&text_color=FFF&bg_color=000&icon_color=2D98FF" alt="blackphlox-wakatime" /></a>
 </div>
 
 <!---Ha ha ha markdown go:---><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/>
-
 
 # Specs 🖥 :
            Processor: AMD Ryzen 7 5800X 8-Core Processor (16 CPUs), ~3.8GHz
