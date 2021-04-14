@@ -36,7 +36,12 @@ See a project you like? Star the repo to increase the chances for me to continue
 ![image](https://user-images.githubusercontent.com/25123512/114582385-d4827b00-9c80-11eb-9e3e-1a7e0af7c673.png)
 
 ## [FirmwareGuard+](https://www.linkedin.com/feed/update/urn:li:activity:6575663608267706368)
-Developed FirmwareGuard+ for Cryptera. SAAS that allows their customers to do secure provisioning remotely as a service without requiring IoT devices to be transported to get firmware loaded.
+Developed [FirmwareGuard+](https://www.cryptera.com/iotsecurity/firmwareguard-chip) for Cryptera. SAAS that allows their customers to do secure provisioning remotely as a service without requiring IoT devices to be transported to get firmware loaded.
+
+<img align="left" src="https://www.cryptera.com/wp-content/uploads/2019/09/01_datablad_forsidebillede.jpg" alt="firmware guard plus" width="450"/>
+
+</br></br></br></br></br></br></br></br>
+</br>
 
 ## [Mud](https://mud.rs)
 Easy GUI development in Rust.
@@ -64,8 +69,9 @@ Implementing [Logic Friday](https://logic-friday.software.informer.com) function
 Cross site scripting(XSS) cookie-fetch server, used for educational perpose only. [Demo](https://milr.dk/CookieMonster/public)
 
 <img align="left" src="https://repository-images.githubusercontent.com/188903652/86992800-8c4f-11e9-80de-9b207f34b8db" alt="cookiemonster" width="300"/>
+<img align="left" src="https://user-images.githubusercontent.com/25123512/114689321-e104e300-9d15-11eb-8126-8158226f69fb.png" alt="cookiemonster-demo" width="300"/>
 
-</br></br></br></br></br></br>
+</br></br></br></br>
 </br>
 
 # [Rain](https://milr.dk/rain/)
