@@ -66,7 +66,7 @@ Implementing [Logic Friday](https://logic-friday.software.informer.com) function
 </br></br></br></br></br></br>
 
 ## [CookieMonster](https://github.com/BlackPhlox/CookieMonster)
-Cross site scripting(XSS) cookie-fetch server, used for educational perpose only. [Demo](https://milr.dk/CookieMonster/public)
+Cross site scripting(XSS) cookie-fetch server, used for educational perpose only. [Demo](https://milr.dk/CookieMonster/public) (Press space to spawn cookies if you aren't running the server locally)
 
 <img align="left" src="https://repository-images.githubusercontent.com/188903652/86992800-8c4f-11e9-80de-9b207f34b8db" alt="cookiemonster" width="300"/>
 <img align="left" src="https://user-images.githubusercontent.com/25123512/114689321-e104e300-9d15-11eb-8126-8158226f69fb.png" alt="cookiemonster-demo" width="300"/>
