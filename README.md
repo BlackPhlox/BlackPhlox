@@ -1,23 +1,23 @@
 
-# Stats:
+# Stats 📊 :
 <div>
  <img align="left" src="https://via.placeholder.com/310x340/FFFFFF/000000?text=Black+Phlox+-+Milr" alt="blackphlox-placeholder" />
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true" alt="blackphlox-placeholder" />
- <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox" alt="blackphlox-placeholder" /></a>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true" alt="blackphlox-github-stats" />
+ <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox" alt="blackphlox-wakatime" /></a>
 </div>
 
 <!---Ha ha ha markdown go:---><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/>
 
-# Game Jams:
+# Game Jams 🍯 :
 
 -  Participated - [GMTK 2019](https://itch.io/jam/gmtk-2019)
 -  [Hosted](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) & Participated - [Level One Jam 2020](https://levelonejam.com) - [itch.io](https://itch.io/jam/level-one-jam-2020)
 
-# Hackathon:
+# Hackathon ⚡ :
 - ITU Creative Coding, Developed a [Co-op Mine Detector Game](#) 
 
-# Projects:
+# Projects 🛠 :
 
 See a project you like? Star the repo to increase the chances for me to continue or expand development of said repo.
 
