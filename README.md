@@ -19,6 +19,8 @@
 
 # Projects:
 
+See a project you like? Star the repo to increase the chances for me to continue or expand development of said repo.
+
 ## [wt-editor-cli](https://github.com/BlackPhlox/wt-editor-cli)
 [![wt-editor-cli-showcase](https://user-images.githubusercontent.com/25123512/68077919-ba2a4980-fdcc-11e9-879f-6e1fecb6bb20.gif)](https://github.com/BlackPhlox/wt-editor-cli)
 
@@ -63,7 +65,7 @@ Cross site scripting(XSS) cookie-fetch server, used for educational perpose only
 
 <img align="left" src="https://repository-images.githubusercontent.com/188903652/86992800-8c4f-11e9-80de-9b207f34b8db" alt="cookiemonster" width="300"/>
 
-</br></br></br></br></br>
+</br></br></br></br></br></br>
 </br>
 
 # [Rain](https://milr.dk/rain/)
@@ -76,3 +78,9 @@ Cross site scripting(XSS) cookie-fetch server, used for educational perpose only
 <img align="left" src="https://user-images.githubusercontent.com/25123512/43744953-ad85b0d4-99dc-11e8-8923-6891c239aab1.png" alt="pixel-washington" width="180"/>
 <img align="left" src="https://user-images.githubusercontent.com/25123512/43744951-ad51961e-99dc-11e8-80db-9ea41cdfdee7.png" alt="pixel-washington" width="100"/>
 
+</br></br></br></br></br></br></br></br></br></br>
+</br>
+
+# [AsciiEngine](https://github.com/BlackPhlox/AsciiEngine)
+
+<img align="left" src="https://user-images.githubusercontent.com/25123512/114636685-e9363180-9cc7-11eb-85ee-3f4a80e8535c.gif" alt="ascii-engine" width="300"/>
