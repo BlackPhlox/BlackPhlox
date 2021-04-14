@@ -55,6 +55,7 @@ Easy GUI development in Rust.
 
 ## [Logic F Day](https://github.com/BlackPhlox/logic-f-day)
 
+
 Implementing [Logic Friday](https://logic-friday.software.informer.com) functionailty in a functional language.
 
 
@@ -75,8 +76,8 @@ Implementing [Logic Friday](https://logic-friday.software.informer.com) function
 ## [CookieMonster](https://github.com/BlackPhlox/CookieMonster)
 Cross site scripting(XSS) cookie-fetch server, used for educational perpose only. Made using [Node.js](https://nodejs.org/en/), [P5.js](https://p5js.org) and [Matter.js](https://brm.io/matter-js/) [Demo](https://milr.dk/CookieMonster/public) (Press space to spawn cookies if you aren't running the server locally)
 
-<img align="left" src="https://repository-images.githubusercontent.com/188903652/86992800-8c4f-11e9-80de-9b207f34b8db" alt="cookiemonster" width="300"/>
-<img align="left" src="https://user-images.githubusercontent.com/25123512/114689321-e104e300-9d15-11eb-8126-8158226f69fb.png" alt="cookiemonster-demo" width="300"/>
+<img align="left" src="https://repository-images.githubusercontent.com/188903652/86992800-8c4f-11e9-80de-9b207f34b8db" alt="cookiemonster" width="350"/>
+<img align="left" src="https://user-images.githubusercontent.com/25123512/114718047-f2f67e00-9d35-11eb-96d6-e73725346204.png" alt="cookiemonster-demo" width="300"/>
 
 </br></br></br></br></br>
 </br>
