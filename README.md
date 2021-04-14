@@ -103,9 +103,6 @@ Cross site scripting(XSS) cookie-fetch server, used for educational perpose only
 
 # [Configurations](https://github.com/BlackPhlox/settings-public)
 
-</br></br></br>
-</br>
-
 Below is my configuration for my laptop runnign WSL. Using X-Server and some enviroment variable configuration, I'm able to startup a linux instance using a single command:
 
 ![lxde](https://user-images.githubusercontent.com/25123512/114703314-66dc5a80-9d25-11eb-9f9f-d1454e495572.gif)
