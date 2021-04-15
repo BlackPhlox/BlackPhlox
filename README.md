@@ -137,3 +137,4 @@ Below is my configuration for my laptop running WSL. Using X-Server and some env
 ![image](https://user-images.githubusercontent.com/25123512/114805603-90d46200-9da3-11eb-843b-97d65f011aa3.png)
 ![image](https://user-images.githubusercontent.com/25123512/114805684-b497a800-9da3-11eb-9f6e-7ac49b1d2f72.png)
 
+![image](https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hackerman.svg)
