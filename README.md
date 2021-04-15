@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-		<img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/intro-anim.svg" width="800" height="200" alt="Click to see the source">
+		<img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/intro-anim.svg" width="1200" height="200" alt="hello">
 	<br>
 </div>
 
