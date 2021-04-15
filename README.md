@@ -1,5 +1,5 @@
 <div align="left">
-	<img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hello.svg" width="815" height="300" alt="hello-i-am-mikkel">
+<a href="https://github.com/BlackPhlox/BlackPhlox"><img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hello.svg" width="815" height="300" alt="hello-i-am-mikkel"></a>
 </div>
 
 [![Magic](https://img.shields.io/badge/darkphlox-Twitter-1fc7e1?style=for-the-badge)](https://twitter.com/darkphlox)
