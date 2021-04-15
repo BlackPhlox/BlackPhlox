@@ -27,6 +27,8 @@
 
 See a project you like? Star the repo to increase the chances for me to continue or expand development of said repo.
 
+<details><summary>Click here to show all projects</summary>
+
 ## [wt-editor-cli](https://github.com/BlackPhlox/wt-editor-cli)
 [![wt-editor-cli-showcase](https://user-images.githubusercontent.com/25123512/68077919-ba2a4980-fdcc-11e9-879f-6e1fecb6bb20.gif)](https://github.com/BlackPhlox/wt-editor-cli)
 
