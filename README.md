@@ -44,7 +44,7 @@ See a project you like? Star the repo to increase the chances for me to continue
 ### [Level One Jam Lottery](https://blackphlox-lottery.builtwithdark.com) - written in Javascript using [P5.js](https://p5js.org) and WebGL elements, backend in [Dark](https://darklang.com).
 <img align="left" src="https://user-images.githubusercontent.com/25123512/114806310-d34a6e80-9da4-11eb-8668-006eea6fec15.png" clip="rect(0px,60px,200px,0px)" alt="level-one-jam-lottery" width="500"/>
 
-</br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 </br>
 
 ### [Level One Jam Discord Bot - Achievement Manager](#) - written in [Node.js](https://nodejs.org)
