@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="500" width="1500">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="200" width="400">
   <g transform="translate(0 -1100) scale(1.34105)">
     <path style="fill:#333333" class="lens" d="M85 860c-10 1-25 1-28 13-3 15-3 32 6 45 7 11 23 9 35 9 19-1 35-16 40-34 2-8 4-14 1-19-6-10-20-12-31-13z"/>
     <path style="fill:#333333" class="lens" d="M215 860c10 1 24 1 28 13 3 15 3 32-6 45-7 11-23 9-35 9-19-1-35-16-40-34-2-8-4-14-1-19 6-10 20-12 31-13z"/>
@@ -30,6 +30,7 @@
 
       <style type="text/css" id="style5503">
         svg { --dots: rgba(242,242,242,0.6); --frame: #000; --shine: rgba(242,242,242,0.35); --lens: rgba(242,242,242,0.95); --code-one: rgba(128,230,25,0.5); --code-two: rgba(229,230,25,0.5); --code-three: rgba(230,25,128,0.5); --code-four: rgba(25,195,230,0.5); } .code-block { -webkit-animation: read 1.5s infinite linear; animation: read 1.5s infinite linear; } .code-block rect { fill: var(--code-one); } .code-block rect:nth-of-type(5) { fill: var(--code-four); } .code-block rect:nth-of-type(8), .code-block rect:nth-of-type(9) { fill: var(--code-two); } .code-block rect:nth-of-type(12) { fill: var(--code-three); }  .lens { fill: var(--lens); } .lens__shine { fill: var(--shine); } .shades-dot { fill: var(--dots); } .shades-frame { fill: var(--frame); } @-webkit-keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } } @keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } }
+        
       </style>
       <g class="code-block" id="code-block">
         <rect ry="0" y="862" x="60" height="7.5" width="74" id="rect5505"/>
