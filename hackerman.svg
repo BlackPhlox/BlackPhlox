@@ -48,7 +48,7 @@
         --code-three: rgba(230,25,128,0.5); 
         --code-four: rgba(25,195,230,0.5); 
       } 
-      .code-block { -webkit-animation: read 1.5s infinite linear; animation: read 1.5s infinite linear; } 
+      .code-block { -webkit-animation: read 3.0s infinite linear; animation: read 3.0s infinite linear; } 
       .code-block rect { fill: var(--code-one); } 
       .code-block rect:nth-of-type(5) { fill: var(--code-four); } 
       .code-block rect:nth-of-type(8), 
