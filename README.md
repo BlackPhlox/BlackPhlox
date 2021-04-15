@@ -2,6 +2,13 @@
 	<img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hello.svg" width="1200" height="300" alt="hello-i-am-mikkel">
 </div>
 
+![Magic](https://img.shields.io/badge/Made%20with-Magic-1fc7e1?style=for-the-badge)
+![Magic](https://img.shields.io/badge/Made%20with-Magic-1fc7e1?style=for-the-badge)
+![Magic](https://img.shields.io/badge/Made%20with-Magic-1fc7e1?style=for-the-badge)
+![Magic](https://img.shields.io/badge/Made%20with-Magic-1fc7e1?style=for-the-badge)
+![Magic](https://img.shields.io/badge/Made%20with-Magic-1fc7e1?style=for-the-badge)
+
+
 # Stats 📊 :
 <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphlox&layout=compact&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800&border_radius=0&include_all_commits=true&layout=compact&title_color=FFF&text_color=FFF&bg_color=0,2070bc,000&icon_color=2D98FF&langs_count=6&count_private=true&custom_title=GH+Alltime+Prog.+Lang.+Used" alt="total-github-programming-language-ratio" />
