@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="500" width="1500" style="background-color:green">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="500" width="1500">
 	<rect fill="#000" height="500" width="1500"/>
     <rect fill="#000" height="500" width="1500"/>
     <rect fill="#000" transform="rotate(-37 286 622)" height="759.9" width="1614.3" y="622" x="286"/>
