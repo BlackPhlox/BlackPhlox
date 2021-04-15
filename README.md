@@ -47,7 +47,7 @@ See a project you like? Star the repo to increase the chances for me to continue
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 </br>
 
-### [Level One Jam Discord Bot - Achievement Manager](#) - written in [Node.js](https://nodejs.org)
+### [Level One Jam Discord Bot - Achievement Manager](https://github.com/BlackPhlox/level-one-jam-achievement-manager) - written in [Node.js](https://nodejs.org)
 ![image](https://user-images.githubusercontent.com/25123512/114582385-d4827b00-9c80-11eb-9e3e-1a7e0af7c673.png)
 
 ## [FirmwareGuard+](https://www.linkedin.com/feed/update/urn:li:activity:6575663608267706368)
