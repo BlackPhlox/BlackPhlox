@@ -24,7 +24,7 @@
 -  [Hosted](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) & Participated - [Level One Jam 2020](https://levelonejam.com) - [itch.io](https://itch.io/jam/level-one-jam-2020)
 
 # Hackathon ⚡ :
-- ITU Creative Coding, Developed a [Co-op Mine Detector Game](#) 
+- ITU Creative Coding, Developed a [Co-op Mine Detector Game](https://github.com/BlackPhlox/MineDetector) 
 
 # Projects 🛠 :
 
