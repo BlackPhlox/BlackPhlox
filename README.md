@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hello.svg" width="1200" height="350" alt="hello-i-am-mikkel">
+	<img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hello.svg" width="1200" height="300" alt="hello-i-am-mikkel">
 </div>
 
 # Stats 📊 :
