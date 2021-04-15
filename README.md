@@ -35,8 +35,7 @@ See a project you like? Star the repo to increase the chances for me to continue
 
 ### [Level One Jam Video](https://www.youtube.com/watch?v=_2BVvSVlDF0) - made using [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), thanks to [@myhairis_blue](https://twitter.com/myhairis_blue) for the amazing VO.
 
-
-### [Level One Jam Lottery](#) - written in Javascript using [P5.js](https://p5js.org) and WebGL elements, backend in [Dark](https://darklang.com).
+### [Level One Jam Lottery](https://blackphlox-lottery.builtwithdark.com) - written in Javascript using [P5.js](https://p5js.org) and WebGL elements, backend in [Dark](https://darklang.com).
 
 ### [Level One Jam Discord Bot - Achievement Manager](#) - written in [Node.js](https://nodejs.org)
 ![image](https://user-images.githubusercontent.com/25123512/114582385-d4827b00-9c80-11eb-9e3e-1a7e0af7c673.png)
