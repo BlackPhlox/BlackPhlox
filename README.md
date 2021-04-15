@@ -2,7 +2,7 @@
 # Stats 📊 :
 <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphlox&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800&border_radius=0&include_all_commits=true&layout=compact&title_color=FFF&text_color=FFF&bg_color=0,2070bc,000&icon_color=2D98FF&langs_count=6&custom_title=GH+Total+Prog.+Lang.+Used" alt="total-github-programming-language-ratio" />
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true&theme=dracula&hide_border=true&cache_seconds=7200&&border_radius=0&include_all_commits=true&layout=compact&title_color=000&text_color=FFF&bg_color=0,000,2D98FF&icon_color=2D98FF&hide_title=true" alt="blackphlox-github-stats" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true&theme=dracula&hide_border=true&cache_seconds=7200&&border_radius=0&include_all_commits=true&layout=compact&title_color=000&text_color=FFF&bg_color=0,000,2D98FF&icon_color=2D98FF&hide_title=true&line_height=24" alt="blackphlox-github-stats" />
  <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox&theme=dracula&hide_border=true&cache_seconds=1800&border_radius=0&include_all_commits=true&layout=compact&title_color=FFF&text_color=FFF&bg_color=0,000,2D98FF&icon_color=2D98FF&custom_title=This+week+in+programming+languages" alt="blackphlox-wakatime" /></a>
 </div>
 
