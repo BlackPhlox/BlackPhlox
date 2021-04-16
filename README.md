@@ -8,8 +8,6 @@
 [![Magic](https://img.shields.io/badge/milr.dk-Web-e2847a?style=for-the-badge)](https://milr.dk)
 [![Magic](https://img.shields.io/badge/DEV.TO-Blogs-7be5b0?style=for-the-badge)](https://dev.to/blackphlox)
 
-
-
 # Stats 📊 :
 <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphlox&layout=compact&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800&border_radius=0&include_all_commits=true&layout=compact&title_color=FFF&text_color=FFF&bg_color=0,2070bc,000&icon_color=2D98FF&langs_count=6&count_private=true&custom_title=GH+Alltime+Prog.+Lang.+Used" alt="total-github-programming-language-ratio" />
@@ -39,6 +37,10 @@
 See a project you like? Star the repo to increase the chances for me to continue or expand development of said repo.
 
 <details><summary>Click here to show all projects</summary>
+
+</br>
+
+![image](https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hackerman.svg)
 
 ## [wt-editor-cli](https://github.com/BlackPhlox/wt-editor-cli)
 [![wt-editor-cli-showcase](https://user-images.githubusercontent.com/25123512/68077919-ba2a4980-fdcc-11e9-879f-6e1fecb6bb20.gif)](https://github.com/BlackPhlox/wt-editor-cli)
@@ -136,5 +138,3 @@ Below is my configuration for my laptop running WSL. Using X-Server and some env
 ![image](https://user-images.githubusercontent.com/25123512/114805370-2c190780-9da3-11eb-979d-bac6e1405029.png)
 ![image](https://user-images.githubusercontent.com/25123512/114805603-90d46200-9da3-11eb-843b-97d65f011aa3.png)
 ![image](https://user-images.githubusercontent.com/25123512/114805684-b497a800-9da3-11eb-9f6e-7ac49b1d2f72.png)
-
-![image](https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hackerman.svg)
