@@ -76,16 +76,40 @@
         animation: rotate ease-in-out 1s infinite alternate;
       }
       
+      @keyframes motion_left {
+        0% {
+          transform: transform: translate(50px, -20px);
+          -webkit-transform: translate(50px,-20px);
+        }
+        100% {
+          transform: transform: translate(50px, 0px);
+          -webkit-transform: translate(50px, 0px);
+        }
+      }
+      
+      @keyframes motion_right {
+        0% {
+          transform: translate(0px,0px);
+          -webkit-transform: translate(900px,-315px);
+        }
+        100% {
+          transform: translate(0px,0px);
+          -webkit-transform: translate(900px,-300px);
+        }
+      }
+      
       .left-container {
         position: relative;
         transform: translate(50px, -20px);
         -webkit-transform: translate(50px,-20px);
+        animation: motion_left ease-in-out 2s infinite alternate;
       }
 				
       .right-container {
         position: relative;
         transform: translate(0px,0px);
         -webkit-transform: translate(900px,-315px);
+        animation: motion_right ease-in-out 2s infinite alternate;
       }
       
     </style>
