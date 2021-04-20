@@ -133,6 +133,11 @@ Below is my configuration for my laptop running WSL. Using X-Server and some env
 
 ## [Project 🍯 (Honeypot)]()
 
+Honeypot system running Debian on a headless server using Digital Ocean
+Because we had limited storage, continuously serializing the data from a database
+to CSharp to process the large amount of data for mapping and relation. 
+D3.js to visualize the data and made interactive using Observable.
+
 ![image](https://user-images.githubusercontent.com/25123512/114805270-f8d67880-9da2-11eb-9140-7c520c3a9124.png)
 ![image](https://user-images.githubusercontent.com/25123512/114805334-1a376480-9da3-11eb-8432-91491aeb5e42.png)
 ![image](https://user-images.githubusercontent.com/25123512/114805370-2c190780-9da3-11eb-979d-bac6e1405029.png)
