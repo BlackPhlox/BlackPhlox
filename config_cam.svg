@@ -73,7 +73,7 @@
 				
 				
 				.right-container {
-                	animation: rotateHandsR linear 5s infinite alternate;
+                	animation: rotateHandsR linear 10s infinite alternate;
 					position: absolute;
 				}
                 
