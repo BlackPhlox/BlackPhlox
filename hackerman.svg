@@ -144,7 +144,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <div class="container">
         <div class="left-container">
-          <h1 style="color:var(--color-scale-red-4);">Black</h1>
+          <h1>Black</h1>
         </div>
         <div class="right-container">
           <h1>Phlox</h1>
