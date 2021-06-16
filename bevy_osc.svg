@@ -81,10 +81,10 @@
         transform: translate(400px, 30px);
         -webkit-transform: translate(400px, 30px);
         text-shadow:
-          0 1px 0 #efefef,
-          0 2px 0 #efefef,
-          0 3px 0 #efefef,
-          0 4px 0 #efefef,
+          0 1px 0 #565656,
+          0 2px 0 #565656,
+          0 3px 0 #565656,
+          0 4px 0 #565656,
           0 8px 10px rgba(0, 0, 0, 0.8);
         animation: rotate ease-in-out 1s infinite alternate;
       }
