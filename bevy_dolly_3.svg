@@ -109,32 +109,32 @@
 					}
 				}
                 .cloud:nth-child(1) {
-                  top: calc(2.9% + 3.8 * 4%);
-                  animation-delay: 4.8s;
+                  top: 40px;
+                  animation-delay: 5.8s;
                   /*animation-duration: 7s;*/
                 }
                 .cloud:nth-child(2) {
-                  top: calc(2.9% + 3.5 * 4%);
-                  animation-delay: 6s;
+                  top: 43px;
+                  animation-delay: 7s;
                   /*animation-duration: 9s;*/
                 }
                 .cloud:nth-child(3) {
-                  top: calc(2.9% + 3.4 * 4%);
+                  top: 46px;
                   animation-delay: 3s;
                 }
                 .cloud:nth-child(4) {
-                  top: calc(2.9% + 3.8 * 4.3%);
+                  top: 51px;
                   animation-delay: 1s;
                   /*animation-duration: 7s;*/
                 }
                 .cloud:nth-child(5) {
-                  top: calc(2.9% + 3.7 * 4%);
+                  top: 38px;
                   animation-delay: 2s;
                   /*animation-duration: 9s;*/
                 }
                 .cloud:nth-child(6) {
-                  top: calc(2.9% + 4.3 * 3.6%);
-                  animation-delay: 6.5s;
+                  top: 39px;
+                  animation-delay: 7.5s;
                 }
                 
                 @keyframes rotate_sun {
