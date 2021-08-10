@@ -1,0 +1,188 @@
+<svg fill="none" viewBox="0 0 620 100" width="620" height="100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes rotate_sheep {
+					0% {
+                    	-moz-transform: rotate(18deg) translate(100px,-20px);
+                        -webkit-transform: rotate(18deg) translate(100px,-20px);
+                        -o-transform: rotate(18deg) translate(100px,-20px);
+                        -ms-transform: rotate(18deg) translate(100px,-20px);
+						transform: rotate(18deg) translate(100px,-20px);
+					}
+   
+					100% {
+                    	-moz-transform: rotate(-18deg) translate(-100px,-20px);
+                        -webkit-transform: rotate(-18deg) translate(-100px,-20px);
+                        -o-transform: rotate(-18deg) translate(-100px,-20px);
+                        -ms-transform: rotate(-18deg) translate(-100px,-20px);
+						transform: rotate(-18deg) translate(-100px,-20px);
+					}
+				}
+				
+				@keyframes spin_cam {
+					0% {
+                      	-moz-transform: scale(-1, 1) rotateY(-180deg) rotateZ(10deg);
+                        -webkit-transform: scale(-1, 1) rotateY(-180deg) rotateZ(10deg);
+                        -o-transform: scale(-1, 1) rotateY(-180deg) rotateZ(10deg);
+                        -ms-transform: scale(-1, 1) rotateY(-180deg) rotateZ(10deg);
+                        transform: scale(-1, 1) rotateY(-180deg) rotateZ(10deg);
+					}
+					100% {
+						-moz-transform: scale(-1, 1) rotateY(180deg) rotateZ(10deg);
+                        -webkit-transform: scale(-1, 1) rotateY(180deg) rotateZ(10deg);
+                        -o-transform: scale(-1, 1) rotateY(180deg) rotateZ(10deg);
+                        -ms-transform: scale(-1, 1) rotateY(180deg) rotateZ(10deg);
+                        transform: scale(-1, 1) rotateY(180deg) rotateZ(10deg);
+					}
+				}
+
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 280px;
+					height: 100px;
+					
+                    background: linear-gradient(0deg, #00FF00 0%,#00FF00 30%, #ADD8E6 35%, #05dfd7 100%);
+					border-radius: 10px;
+					color: black;
+					text-align: center;
+                    
+				}
+								
+				.right-container {
+                	animation: spin_cam linear 8s infinite alternate;
+					position: absolute;
+				}
+                
+                .right-container h2 {
+                	transform: translate(-0px,-20px);
+                }
+
+				h1 {
+					font-size: 50px;
+					text-shadow:
+						0 12px 5px rgba(0, 0, 0, 0.1);
+					animation: rotate_sheep ease-in-out 4s infinite alternate;
+				}
+				
+				h2 {
+					font-size: 50px;
+					text-shadow:
+						0 12px 5px rgba(0, 0, 0, 0.1);
+				}
+                .fence {
+                	position:absolute;
+					font-size: 30px;
+                    margin-top: 30px;
+                    transform: rotateY(40deg);
+					text-shadow:
+						0 12px 5px rgba(0, 0, 0, 0.1);
+				}
+                .cloud {
+                	position: absolute;
+					font-size: 30px;
+                    transform: translate(0px,-2000px);
+                    animation: cloud_anim linear 8s infinite alternate;
+					text-shadow:
+						0 12px 5px rgba(0, 0, 0, 0.1);
+				}
+                @keyframes cloud_anim {
+					0% {
+                        transform: translate(120px,-80px);
+					}
+					100% {
+                    	transform: translate(-120px,-80px);
+					}
+				}
+                .cloud:nth-child(1) {
+                  top: calc(2.9% + 3.8 * 4%);
+                  animation-delay: 4.8s;
+                  /*animation-duration: 7s;*/
+                }
+                .cloud:nth-child(2) {
+                  top: calc(2.9% + 3.5 * 4%);
+                  animation-delay: 6s;
+                  /*animation-duration: 9s;*/
+                }
+                .cloud:nth-child(3) {
+                  top: calc(2.9% + 3.4 * 4%);
+                  animation-delay: 3s;
+                }
+                .cloud:nth-child(4) {
+                  top: calc(2.9% + 3.8 * 4.3%);
+                  animation-delay: 1s;
+                  /*animation-duration: 7s;*/
+                }
+                .cloud:nth-child(5) {
+                  top: calc(2.9% + 3.7 * 4%);
+                  animation-delay: 2s;
+                  /*animation-duration: 9s;*/
+                }
+                .cloud:nth-child(6) {
+                  top: calc(2.9% + 4.3 * 3.6%);
+                  animation-delay: 6.5s;
+                }
+                
+                @keyframes rotate_sun {
+					0% {
+						transform: rotate(5deg);
+					}
+					100% {
+						transform: rotate(-5deg);
+					}
+				}
+                .sun {
+                	font-size: 30px;
+                	margin-top: -30px;
+                    margin-left: 100px;
+                	position: absolute;
+                	animation: rotate_sun ease-in-out 1.0s infinite alternate;
+                }
+                .mountain {
+                	font-size: 60px;
+                	margin-top: -10px;
+                    margin-left: -80px;
+                	position: absolute;
+                }
+                .title {
+                	font-size: 60px;
+                	margin-top: -5px;
+                    margin-left: 320px;
+                	position: absolute;
+                }
+			</style>
+			<div class="container">            	
+            	<h4 class="cloud">☁</h4>                
+                <h4 class="cloud">☁</h4>
+                
+                <h4 class="cloud">☁</h4>
+                <!--⛰🏞🏔-->
+                <h4 class="sun">🌞</h4>
+                <h4 class="mountain">🗻</h4>
+                <h4 class="cloud">☁</h4>
+                <h4 class="cloud">☁</h4>
+                <h4 class="cloud">☁</h4> 
+				<h1>🐑</h1>
+                <h4 class="fence">🚧</h4> 
+				<div class="right-container">
+					<h2>🎥</h2>
+				</div>
+                <h4 class="title">bevy_dolly</h4>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
