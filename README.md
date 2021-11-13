@@ -27,7 +27,7 @@
 # Game Jams 🍯 :
 
 -  Participated - [GMTK 2019](https://itch.io/jam/gmtk-2019)
--  [Hosted](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) & Participated - [Level One Jam 2020](https://levelonejam.com) - [itch.io](https://itch.io/jam/level-one-jam-2020)
+-  [Hosted](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) & Participated - [Level One Jam 2020](https://levelonejam.com/2020) - [itch.io](https://itch.io/jam/level-one-jam-2020)
 -  [Hosting](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) - [Level One Jam 2022](https://levelonejam.com)
 # Hackathon ⚡ :
 - ITU Creative Coding, Developed a [Co-op Mine Detector Game](https://github.com/BlackPhlox/MineDetector) 
@@ -46,7 +46,7 @@ See a project you like? Star the repo to increase the chances for me to continue
 [![wt-editor-cli-showcase](https://user-images.githubusercontent.com/25123512/68077919-ba2a4980-fdcc-11e9-879f-6e1fecb6bb20.gif)](https://github.com/BlackPhlox/wt-editor-cli)
 
 ## Level One Jam
-### [Level One Jam 2020 Website](https://levelonejam.com) - written using [HUGO](https://gohugo.io) and [Bulma](https://bulma.io), backend made using JavaScript and Google Sheets API.
+### Level One Jam [2020](https://levelonejam.com/2020) & [2022](https://levelonejam.com) Website - written using [HUGO](https://gohugo.io) and [Bulma](https://bulma.io), backend made using JavaScript and Google Sheets API.
 
 ![image](https://user-images.githubusercontent.com/25123512/114807355-90899600-9da6-11eb-876a-e2bab1963cbe.png)
 
