@@ -65,10 +65,10 @@ See a project you like? Star the repo to increase the chances for me to continue
 ### [Level One Jam Discord Bot - Achievement Manager](https://github.com/BlackPhlox/level-one-jam-achievement-manager) - written in [Node.js](https://nodejs.org)
 ![image](https://user-images.githubusercontent.com/25123512/114582385-d4827b00-9c80-11eb-9e3e-1a7e0af7c673.png)
 
-## [FirmwareGuard+](https://www.linkedin.com/feed/update/urn:li:activity:6575663608267706368)
-Developed [FirmwareGuard+](https://www.cryptera.com/iotsecurity/firmwareguard-chip) for Cryptera. SAAS that allows their customers to do secure provisioning remotely as a service without requiring IoT devices to be transported to get firmware loaded.
+## [CryptoGuard](https://cryptera.com/cryptoguard/)
+Developed [CryptoGuard](https://cryptera.com/cryptoguard/) for Cryptera. SAAS that allows their customers to do secure provisioning remotely as a service without requiring IoT devices to be transported to get firmware loaded.
 
-<img align="left" src="https://www.cryptera.com/wp-content/uploads/2019/09/01_datablad_forsidebillede.jpg" alt="firmware guard plus" width="450"/>
+<img align="left" src="https://14qkea2ywuue3c2a2q214489-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/FirmwareGuard-Industiral-iot3.png" alt="crypto guard" width="250"/>
 
 </br></br></br></br></br></br></br></br></br>
 </br>
