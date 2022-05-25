@@ -143,3 +143,5 @@ D3.js to visualize the data and made interactive using Observable.
 ![image](https://user-images.githubusercontent.com/25123512/114805370-2c190780-9da3-11eb-979d-bac6e1405029.png)
 ![image](https://user-images.githubusercontent.com/25123512/114805603-90d46200-9da3-11eb-843b-97d65f011aa3.png)
 ![image](https://user-images.githubusercontent.com/25123512/114805684-b497a800-9da3-11eb-9f6e-7ac49b1d2f72.png)
+
+![](https://komarev.com/ghpvc/?username=BlackPhlox&label=Views)
