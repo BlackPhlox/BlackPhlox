@@ -1,0 +1,410 @@
+<svg fill="none" viewBox="0 0 280 100" width="280" height="100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes rotate_sheep {
+					0% {
+                    	-moz-transform: rotate(18deg) translate(95px,-45px);
+                        -webkit-transform: rotate(18deg) translate(95px,-45px);
+                        -o-transform: rotate(18deg) translate(95px,-45px);
+                        -ms-transform: rotate(18deg) translate(95px,-45px);
+						transform: rotate(18deg) translate(95px,-45px);
+                        text-shadow:
+							0 30px 5px rgba(0, 0, 0, 0.1);
+					}
+                    50% {
+                    	text-shadow:
+							0 55px 5px rgba(0, 0, 0, 0.1);
+                    }
+   
+					100% {
+                    	-moz-transform: rotate(-18deg) translate(-95px,-45px);
+                        -webkit-transform: rotate(-18deg) translate(-95px,-45px);
+                        -o-transform: rotate(-18deg) translate(-95px,-45px);
+                        -ms-transform: rotate(-18deg) translate(-95px,-45px);
+						transform: rotate(-18deg) translate(-95px,-45px);
+                        text-shadow:
+							0 30px 5px rgba(0, 0, 0, 0.1);
+					}
+				}
+				
+				@keyframes spin_cam {
+					0% {
+                      	-moz-transform: rotateY(-360deg) rotateZ(10deg);
+                        -webkit-transform: rotateY(-360deg) rotateZ(10deg);
+                        -o-transform: rotateY(-360deg) rotateZ(10deg);
+                        -ms-transform: rotateY(-360deg) rotateZ(10deg);
+                        transform: rotateY(-360deg) rotateZ(10deg);
+					}
+					100% {
+						-moz-transform: rotateY(360deg) rotateZ(10deg);
+                        -webkit-transform: rotateY(360deg) rotateZ(10deg);
+                        -o-transform: rotateY(360deg) rotateZ(10deg);
+                        -ms-transform: rotateY(360deg) rotateZ(10deg);
+                        transform: rotateY(360deg) rotateZ(10deg);
+					}
+				}
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 280px;
+					height: 100px;
+					
+                    background: linear-gradient(0deg, #00FF00 0%,#00FF00 30%, #ADD8E6 35%, #05dfd7 100%);
+					border-radius: 10px;
+					color: black;
+					text-align: center;
+                    
+				}
+								
+				.right-container {
+                	animation: spin_cam linear 16s infinite alternate;
+					position: absolute;
+				}
+                
+                .right-container .cam {
+                	-moz-transform: translate(-0px,-20px);
+                    -webkit-transform: translate(-0px,-20px);
+                    -o-transform: translate(-0px,-20px);
+                    -ms-transform: translate(-0px,-20px);
+                	transform: translate(-0px,-20px);
+                }
+				.sheep-base {
+					font-size: 50px;
+					text-shadow:
+						0 12px 5px rgba(0, 0, 0, 0.1);
+					animation: rotate_sheep ease-in-out 4s infinite alternate;
+				}
+                
+                .rotate {
+					animation: rotate ease-in-out 8s infinite;
+				}
+                
+                @keyframes rotate {                   
+                    0% {
+                    	-moz-transform: rotateY(0deg);
+                        -webkit-transform: rotateY(0deg);
+                        -o-transform: rotateY(0deg);
+                        -ms-transform: rotateY(0deg);
+                        transform: rotateY(0deg);
+					}
+                    45% {
+                    	-moz-transform: rotateY(0deg);
+                        -webkit-transform: rotateY(0deg);
+                        -o-transform: rotateY(0deg);
+                        -ms-transform: rotateY(0deg);
+                        transform: rotateY(0deg);
+					}
+                    50% {
+                    	-moz-transform: rotateY(-180deg);
+                        -webkit-transform: rotateY(-180deg);
+                        -o-transform: rotateY(-180deg);
+                        -ms-transform: rotateY(-180deg);
+                        transform: rotateY(-180deg);
+					}
+                    95% {
+                    	-moz-transform: rotateY(-180deg);
+                        -webkit-transform: rotateY(-180deg);
+                        -o-transform: rotateY(-180deg);
+                        -ms-transform: rotateY(-180deg);
+                    	transform: rotateY(-180deg);
+                    }
+					100% {
+                    	-moz-transform: rotateY(0deg);
+                        -webkit-transform: rotateY(0deg);
+                        -o-transform: rotateY(0deg);
+                        -ms-transform: rotateY(0deg);
+                    	transform: rotateY(0deg);
+					}
+				}
+				
+				.cam {
+					font-size: 50px;
+					text-shadow:
+						0 12px 5px rgba(0, 0, 0, 0.1);
+				}
+                .fence {
+                	position:absolute;
+					font-size: 30px;
+                    margin-top: 30px;
+                    transform: rotateY(40deg);
+					text-shadow:
+						0 12px 5px rgba(0, 0, 0, 0.2);
+				}
+                .bevy {
+                	position: absolute;
+                    font-size: 30px;
+                    margin-left: -20px;
+                    transform: translate(0px,-200px);
+                    animation: bevy_anim linear 10s infinite;
+				}
+                @keyframes bevy_anim {
+					0% {
+                    	-moz-transform: translate(120px,-85px);
+                        -webkit-transform: translate(120px,-85px);
+                        -o-transform: translate(120px,-85px);
+                        -ms-transform: translate(120px,-85px);
+                        transform: translate(120px,-85px);
+					}
+                    45% {
+                    	-moz-transform: translate(120px,-85px);
+                        -webkit-transform: translate(120px,-85px);
+                        -o-transform: translate(120px,-85px);
+                        -ms-transform: translate(120px,-85px);
+                    	transform: translate(-120px,-85px);
+					}
+                    50% {
+                    	-moz-transform: translate(-120px,-85px)rotateY(180deg);
+                        -webkit-transform: translate(-120px,-85px)rotateY(180deg);
+                        -o-transform: translate(-120px,-85px)rotateY(180deg);
+                        -ms-transform: translate(-120px,-85px)rotateY(180deg);
+                    	transform: translate(-120px,-85px)rotateY(180deg);
+					}
+                    95% {
+                    	-moz-transform: translate(120px,-85px)rotateY(180deg);
+                        -webkit-transform: translate(120px,-85px)rotateY(180deg);
+                        -o-transform: translate(120px,-85px)rotateY(180deg);
+                        -ms-transform: translate(120px,-85px)rotateY(180deg);
+                    	transform: translate(120px,-85px)rotateY(180deg);
+                    }
+					100% {
+                    	-moz-transform: translate(120px,-85px);
+                        -webkit-transform: translate(120px,-85px);
+                        -o-transform: translate(120px,-85px);
+                        -ms-transform: translate(120px,-85px);
+                    	transform: translate(120px,-85px);
+					}
+				}
+                
+                .bevy:nth-child(1) {
+                  margin-top: 85px;
+                }
+                .bevy:nth-child(2) {
+                  margin-top: 70px;
+                  animation-delay: 3.8s;
+                }
+                .bevy:nth-child(3) {
+                  margin-top: 80px;
+                  animation-delay: 6.8s;
+                }
+                
+                .cloud {
+                	position: absolute;
+					font-size: 30px;
+                    transform: translate(0px,-2000px);
+                    animation: cloud_anim linear 5s infinite;
+					text-shadow:
+						0 65px 5px rgba(0, 0, 0, 0.1);
+				}
+                @keyframes cloud_anim {
+					0% {
+                    	-moz-transform: translate(180px,-80px);
+                        -webkit-transform: translate(180px,-80px);
+                        -o-transform: translate(180px,-80px);
+                        -ms-transform: translate(180px,-80px);
+                        transform: translate(180px,-80px);
+					}
+					100% {
+                    	-moz-transform: translate(-180px,-80px);
+                        -webkit-transform: translate(-180px,-80px);
+                        -o-transform: translate(-180px,-80px);
+                        -ms-transform: translate(-180px,-80px);
+                    	transform: translate(-180px,-80px);
+					}
+				}
+                
+                @keyframes mountain_anim {
+					0% {
+                    	-moz-transform: translate(280px,0px);
+                        -webkit-transform: translate(280px,0px);
+                        -o-transform: translate(280px,0px);
+                        -ms-transform: translate(280px,0px);
+                        transform: translate(280px,0px);
+					}
+					100% {
+                    	-moz-transform: translate(-180px,0px);
+                        -webkit-transform: translate(-180px,0px);
+                        -o-transform: translate(-180px,0px);
+                        -ms-transform: translate(-180px,0px);
+                    	transform: translate(-180px,0px);
+					}
+				}
+                .mountain {
+                	position: absolute;
+					font-size: 30px;
+                    transform: translate(0px,2000px);
+                    animation: mountain_anim linear 5s infinite;
+					text-shadow:
+						0 65px 5px rgba(0, 0, 0, 0.1);
+				}
+                .mountain:nth-child(0) {
+                  top: 50px;
+                  animation-delay: 2.8s;
+                  /*animation-duration: 7s;*/
+                }
+                .mountain:nth-child(1) {
+                  top: 10px;
+                  animation-delay: 0.8s;
+                  /*animation-duration: 7s;*/
+                }
+                .mountain:nth-child(2) {
+                  top: 10px;
+                  animation-delay: 5.8s;
+                  /*animation-duration: 7s;*/
+                }
+                
+                .cloud:nth-child(1) {
+                  top: 78px;
+                  animation-delay: 5.8s;
+                  /*animation-duration: 7s;*/
+                }
+                .cloud:nth-child(2) {
+                  top: 77px;
+                  animation-delay: 7s;
+                  /*animation-duration: 9s;*/
+                }
+                .cloud:nth-child(3) {
+                  top: 86px;
+                  animation-delay: 3s;
+                }
+                .cloud:nth-child(4) {
+                  top: 50px;
+                  animation-delay: 1s;
+                  /*animation-duration: 7s;*/
+                }
+                .cloud:nth-child(5) {
+                  top: 78px;
+                  animation-delay: 2s;
+                  /*animation-duration: 9s;*/
+                }
+                .cloud:nth-child(6) {
+                  top: 70px;
+                  animation-delay: 7.5s;
+                }
+                
+                @keyframes rotate_sun {
+					0% {
+                    	-moz-transform: rotate(5deg);
+                        -webkit-transform: rotate(5deg);
+                        -o-transform: rotate(5deg);
+                        -ms-transform: rotate(5deg);
+						transform: rotate(5deg);
+					}
+					100% {
+                    	-moz-transform: rotate(-5deg);
+                        -webkit-transform: rotate(-5deg);
+                        -o-transform: rotate(-5deg);
+                        -ms-transform: rotate(-5deg);
+						transform: rotate(-5deg);
+					}
+				}
+                .sun {
+                	font-size: 30px;
+                	margin-top: -30px;
+                    margin-left: 100px;
+                	position: absolute;
+                	animation: rotate_sun ease-in-out 1.0s infinite alternate;
+                }
+                .mountain {
+                	font-size: 60px;
+                	margin-top: -10px;
+                    margin-left: -80px;
+                	position: absolute;
+                    text-shadow:
+						0 5px 5px rgba(0, 0, 0, 0.3);
+                }
+			</style>
+			<div class="container">            	
+            	<div class="cloud">☁</div>                
+                <div class="cloud">☁</div>
+                
+                <div class="cloud">☁</div>
+                <!--⛰🏞🏔-->
+                <div class="sun">🌞</div>
+                <div class="mountain">🗻</div>
+                <div class="mountain">🗻</div>
+                <div class="mountain">🗻</div>
+
+				<h4>
+<svg class="bevy" width="36" height="96" viewBox="0 0 36 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.3109 1.13427C12.178 0.992591 13.1225 1.1988 14.0042 1.82113C15.1623 2.63848 15.6125 3.46747 15.6087 4.59077L15.6078 4.89892L15.9004 4.80285C18.051 4.09793 20.8109 3.84872 24.1164 4.61681C23.2645 5.15216 21.6906 6.06962 19.9705 7.256L19.4251 7.63239L20.087 7.66144C22.6224 7.77281 25.7643 8.75259 28.9214 11.4731C27.7156 11.568 25.2358 11.6647 22.6971 12.0682C21.2859 12.2925 19.9102 12.6091 18.8231 13.0812C17.7361 13.5534 16.9093 14.1918 16.7028 15.0954L16.7095 15.2171C16.8152 15.5255 16.915 15.8026 17.0035 16.0285C17.2066 16.5467 17.739 16.9077 18.408 17.1986C19.0771 17.4894 19.9019 17.7058 20.7489 17.8667C22.0857 18.1208 25.5779 17.2932 25.5011 19.4331C20.6601 20.6069 16.8206 19.9576 14.0244 19.3275C10.8538 18.437 8.56335 16.0535 7.7782 13.7066C7.2862 12.2361 7.22425 11.4873 7.37018 10.8182C7.51615 10.1492 7.89812 9.51534 8.3261 8.35239C8.60114 7.60504 8.70879 6.89731 8.7425 6.24864L8.74978 6.11196L8.63089 6.044C7.39697 5.33808 6.35374 4.51946 5.91992 3.87225C6.47336 3.06073 7.59846 2.73057 8.90517 2.66575L9.07492 2.57269C9.64993 1.76734 10.4436 1.27603 11.3109 1.13427ZM11.8999 4.79995C12.3969 4.79995 12.7999 4.39701 12.7999 3.89995C12.7999 3.4029 12.3969 2.99995 11.8999 2.99995C11.4028 2.99995 10.9999 3.4029 10.9999 3.89995C10.9999 4.39701 11.4028 4.79995 11.8999 4.79995Z" fill="#C4C4C4"/>
+<path d="M11.2302 0.640808L11.2302 0.640815C10.2646 0.798657 9.38935 1.32946 8.74776 2.17386C7.45966 2.25562 6.17952 2.60417 5.50684 3.59053L5.31637 3.86983L5.50459 4.15064C5.98578 4.86852 7.04541 5.69492 8.23269 6.39116C8.19174 6.95408 8.08747 7.5531 7.85687 8.1797L8.3261 8.35239L7.85687 8.1797C7.68126 8.6569 7.51463 9.04003 7.36461 9.38499C7.33694 9.44863 7.30982 9.51097 7.28332 9.57237C7.11642 9.95904 6.96609 10.3247 6.88167 10.7116L6.88166 10.7117C6.70705 11.5122 6.80195 12.3646 7.30403 13.8653C8.14356 16.3747 10.5648 18.8751 13.8892 19.8089L13.9018 19.8124L13.9145 19.8153C16.7427 20.4526 20.6697 21.1191 25.6189 19.919L25.9872 19.8297L26.0008 19.451C26.0259 18.7512 25.7453 18.2346 25.2583 17.9066C24.8132 17.6068 24.2376 17.4929 23.6997 17.4447C23.1867 17.3988 22.6369 17.4081 22.1539 17.4162C22.1216 17.4168 22.0897 17.4173 22.058 17.4178C21.5265 17.4265 21.1152 17.4274 20.8422 17.3755L20.7489 17.8667L20.8422 17.3755C20.0122 17.2178 19.228 17.0098 18.6074 16.74C17.9569 16.4572 17.594 16.1648 17.469 15.846L17.469 15.846C17.3915 15.6482 17.3037 15.406 17.2093 15.1329C17.3885 14.5071 18.0074 13.9807 19.0223 13.5398L18.8231 13.0812L19.0223 13.5398C20.0519 13.0926 21.379 12.784 22.7756 12.562C24.7547 12.2474 26.6896 12.1222 28.0236 12.0359C28.3833 12.0126 28.6992 11.9922 28.9606 11.9716L30.1566 11.8775L29.2478 11.0944C26.3267 8.57719 23.399 7.49731 20.9094 7.22361C21.938 6.53798 22.8796 5.96248 23.6098 5.51618C23.9045 5.33604 24.1648 5.17695 24.3825 5.04016L25.3988 4.40147L24.2296 4.12978C21.012 3.38213 18.2791 3.57029 16.094 4.21865C16.0527 3.72932 15.9222 3.27385 15.6764 2.8433C15.3722 2.31062 14.9101 1.84848 14.2926 1.41263C13.3124 0.720801 12.2368 0.476355 11.2302 0.640808ZM12.2999 3.89995C12.2999 4.12087 12.1208 4.29995 11.8999 4.29995C11.679 4.29995 11.4999 4.12087 11.4999 3.89995C11.4999 3.67904 11.679 3.49995 11.8999 3.49995C12.1208 3.49995 12.2999 3.67904 12.2999 3.89995Z" stroke="black" stroke-weight="1"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0.712891" y="0.0914307" width="34.679" height="94.9931" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="70"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
+<svg class="bevy" width="36" height="96" viewBox="0 0 36 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.3109 1.13427C12.178 0.992591 13.1225 1.1988 14.0042 1.82113C15.1623 2.63848 15.6125 3.46747 15.6087 4.59077L15.6078 4.89892L15.9004 4.80285C18.051 4.09793 20.8109 3.84872 24.1164 4.61681C23.2645 5.15216 21.6906 6.06962 19.9705 7.256L19.4251 7.63239L20.087 7.66144C22.6224 7.77281 25.7643 8.75259 28.9214 11.4731C27.7156 11.568 25.2358 11.6647 22.6971 12.0682C21.2859 12.2925 19.9102 12.6091 18.8231 13.0812C17.7361 13.5534 16.9093 14.1918 16.7028 15.0954L16.7095 15.2171C16.8152 15.5255 16.915 15.8026 17.0035 16.0285C17.2066 16.5467 17.739 16.9077 18.408 17.1986C19.0771 17.4894 19.9019 17.7058 20.7489 17.8667C22.0857 18.1208 25.5779 17.2932 25.5011 19.4331C20.6601 20.6069 16.8206 19.9576 14.0244 19.3275C10.8538 18.437 8.56335 16.0535 7.7782 13.7066C7.2862 12.2361 7.22425 11.4873 7.37018 10.8182C7.51615 10.1492 7.89812 9.51534 8.3261 8.35239C8.60114 7.60504 8.70879 6.89731 8.7425 6.24864L8.74978 6.11196L8.63089 6.044C7.39697 5.33808 6.35374 4.51946 5.91992 3.87225C6.47336 3.06073 7.59846 2.73057 8.90517 2.66575L9.07492 2.57269C9.64993 1.76734 10.4436 1.27603 11.3109 1.13427ZM11.8999 4.79995C12.3969 4.79995 12.7999 4.39701 12.7999 3.89995C12.7999 3.4029 12.3969 2.99995 11.8999 2.99995C11.4028 2.99995 10.9999 3.4029 10.9999 3.89995C10.9999 4.39701 11.4028 4.79995 11.8999 4.79995Z" fill="#ececec"/>
+<path d="M11.2302 0.640808L11.2302 0.640815C10.2646 0.798657 9.38935 1.32946 8.74776 2.17386C7.45966 2.25562 6.17952 2.60417 5.50684 3.59053L5.31637 3.86983L5.50459 4.15064C5.98578 4.86852 7.04541 5.69492 8.23269 6.39116C8.19174 6.95408 8.08747 7.5531 7.85687 8.1797L8.3261 8.35239L7.85687 8.1797C7.68126 8.6569 7.51463 9.04003 7.36461 9.38499C7.33694 9.44863 7.30982 9.51097 7.28332 9.57237C7.11642 9.95904 6.96609 10.3247 6.88167 10.7116L6.88166 10.7117C6.70705 11.5122 6.80195 12.3646 7.30403 13.8653C8.14356 16.3747 10.5648 18.8751 13.8892 19.8089L13.9018 19.8124L13.9145 19.8153C16.7427 20.4526 20.6697 21.1191 25.6189 19.919L25.9872 19.8297L26.0008 19.451C26.0259 18.7512 25.7453 18.2346 25.2583 17.9066C24.8132 17.6068 24.2376 17.4929 23.6997 17.4447C23.1867 17.3988 22.6369 17.4081 22.1539 17.4162C22.1216 17.4168 22.0897 17.4173 22.058 17.4178C21.5265 17.4265 21.1152 17.4274 20.8422 17.3755L20.7489 17.8667L20.8422 17.3755C20.0122 17.2178 19.228 17.0098 18.6074 16.74C17.9569 16.4572 17.594 16.1648 17.469 15.846L17.469 15.846C17.3915 15.6482 17.3037 15.406 17.2093 15.1329C17.3885 14.5071 18.0074 13.9807 19.0223 13.5398L18.8231 13.0812L19.0223 13.5398C20.0519 13.0926 21.379 12.784 22.7756 12.562C24.7547 12.2474 26.6896 12.1222 28.0236 12.0359C28.3833 12.0126 28.6992 11.9922 28.9606 11.9716L30.1566 11.8775L29.2478 11.0944C26.3267 8.57719 23.399 7.49731 20.9094 7.22361C21.938 6.53798 22.8796 5.96248 23.6098 5.51618C23.9045 5.33604 24.1648 5.17695 24.3825 5.04016L25.3988 4.40147L24.2296 4.12978C21.012 3.38213 18.2791 3.57029 16.094 4.21865C16.0527 3.72932 15.9222 3.27385 15.6764 2.8433C15.3722 2.31062 14.9101 1.84848 14.2926 1.41263C13.3124 0.720801 12.2368 0.476355 11.2302 0.640808ZM12.2999 3.89995C12.2999 4.12087 12.1208 4.29995 11.8999 4.29995C11.679 4.29995 11.4999 4.12087 11.4999 3.89995C11.4999 3.67904 11.679 3.49995 11.8999 3.49995C12.1208 3.49995 12.2999 3.67904 12.2999 3.89995Z" stroke="black" stroke-weight="1"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0.712891" y="0.0914307" width="34.679" height="94.9931" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="70"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
+<svg class="bevy" width="36" height="96" viewBox="0 0 36 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.3109 1.13427C12.178 0.992591 13.1225 1.1988 14.0042 1.82113C15.1623 2.63848 15.6125 3.46747 15.6087 4.59077L15.6078 4.89892L15.9004 4.80285C18.051 4.09793 20.8109 3.84872 24.1164 4.61681C23.2645 5.15216 21.6906 6.06962 19.9705 7.256L19.4251 7.63239L20.087 7.66144C22.6224 7.77281 25.7643 8.75259 28.9214 11.4731C27.7156 11.568 25.2358 11.6647 22.6971 12.0682C21.2859 12.2925 19.9102 12.6091 18.8231 13.0812C17.7361 13.5534 16.9093 14.1918 16.7028 15.0954L16.7095 15.2171C16.8152 15.5255 16.915 15.8026 17.0035 16.0285C17.2066 16.5467 17.739 16.9077 18.408 17.1986C19.0771 17.4894 19.9019 17.7058 20.7489 17.8667C22.0857 18.1208 25.5779 17.2932 25.5011 19.4331C20.6601 20.6069 16.8206 19.9576 14.0244 19.3275C10.8538 18.437 8.56335 16.0535 7.7782 13.7066C7.2862 12.2361 7.22425 11.4873 7.37018 10.8182C7.51615 10.1492 7.89812 9.51534 8.3261 8.35239C8.60114 7.60504 8.70879 6.89731 8.7425 6.24864L8.74978 6.11196L8.63089 6.044C7.39697 5.33808 6.35374 4.51946 5.91992 3.87225C6.47336 3.06073 7.59846 2.73057 8.90517 2.66575L9.07492 2.57269C9.64993 1.76734 10.4436 1.27603 11.3109 1.13427ZM11.8999 4.79995C12.3969 4.79995 12.7999 4.39701 12.7999 3.89995C12.7999 3.4029 12.3969 2.99995 11.8999 2.99995C11.4028 2.99995 10.9999 3.4029 10.9999 3.89995C10.9999 4.39701 11.4028 4.79995 11.8999 4.79995Z" fill="#B2B2B2"/>
+<path d="M11.2302 0.640808L11.2302 0.640815C10.2646 0.798657 9.38935 1.32946 8.74776 2.17386C7.45966 2.25562 6.17952 2.60417 5.50684 3.59053L5.31637 3.86983L5.50459 4.15064C5.98578 4.86852 7.04541 5.69492 8.23269 6.39116C8.19174 6.95408 8.08747 7.5531 7.85687 8.1797L8.3261 8.35239L7.85687 8.1797C7.68126 8.6569 7.51463 9.04003 7.36461 9.38499C7.33694 9.44863 7.30982 9.51097 7.28332 9.57237C7.11642 9.95904 6.96609 10.3247 6.88167 10.7116L6.88166 10.7117C6.70705 11.5122 6.80195 12.3646 7.30403 13.8653C8.14356 16.3747 10.5648 18.8751 13.8892 19.8089L13.9018 19.8124L13.9145 19.8153C16.7427 20.4526 20.6697 21.1191 25.6189 19.919L25.9872 19.8297L26.0008 19.451C26.0259 18.7512 25.7453 18.2346 25.2583 17.9066C24.8132 17.6068 24.2376 17.4929 23.6997 17.4447C23.1867 17.3988 22.6369 17.4081 22.1539 17.4162C22.1216 17.4168 22.0897 17.4173 22.058 17.4178C21.5265 17.4265 21.1152 17.4274 20.8422 17.3755L20.7489 17.8667L20.8422 17.3755C20.0122 17.2178 19.228 17.0098 18.6074 16.74C17.9569 16.4572 17.594 16.1648 17.469 15.846L17.469 15.846C17.3915 15.6482 17.3037 15.406 17.2093 15.1329C17.3885 14.5071 18.0074 13.9807 19.0223 13.5398L18.8231 13.0812L19.0223 13.5398C20.0519 13.0926 21.379 12.784 22.7756 12.562C24.7547 12.2474 26.6896 12.1222 28.0236 12.0359C28.3833 12.0126 28.6992 11.9922 28.9606 11.9716L30.1566 11.8775L29.2478 11.0944C26.3267 8.57719 23.399 7.49731 20.9094 7.22361C21.938 6.53798 22.8796 5.96248 23.6098 5.51618C23.9045 5.33604 24.1648 5.17695 24.3825 5.04016L25.3988 4.40147L24.2296 4.12978C21.012 3.38213 18.2791 3.57029 16.094 4.21865C16.0527 3.72932 15.9222 3.27385 15.6764 2.8433C15.3722 2.31062 14.9101 1.84848 14.2926 1.41263C13.3124 0.720801 12.2368 0.476355 11.2302 0.640808ZM12.2999 3.89995C12.2999 4.12087 12.1208 4.29995 11.8999 4.29995C11.679 4.29995 11.4999 4.12087 11.4999 3.89995C11.4999 3.67904 11.679 3.49995 11.8999 3.49995C12.1208 3.49995 12.2999 3.67904 12.2999 3.89995Z" stroke="black" stroke-weight="1"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0.712891" y="0.0914307" width="34.679" height="94.9931" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="70"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
+                </h4>
+
+                <div class="cloud">☁</div>
+                <div class="cloud">☁</div>
+                <div class="cloud">☁</div>
+				<div class="sheep-base"><div class="rotate">🐑</div></div>
+                <div class="sheep-base"><div class="rotate">🛒</div></div>
+                <div class="fence">🚧</div> 
+				<div class="right-container">
+					<div class="cam">🎥</div>
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
