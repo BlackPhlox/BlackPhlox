@@ -15,9 +15,11 @@
  <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox&theme=dracula&hide_border=true&langs_count=10&cache_seconds=7200&border_radius=0&include_all_commits=true&layout=compact&title_color=FFF&text_color=FFF&bg_color=0,000,2D98FF&icon_color=2D98FF&custom_title=Total+for+all+projects (incl. ND)+since+April.+13+2021" alt="blackphlox-wakatime" /></a>
 
 
-<!---Ha ha ha markdown go:---><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
- </div>
+<!---Ha ha ha markdown go:---><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+ </div>
+ 
+![](https://komarev.com/ghpvc/?username=BlackPhlox&label=Views)
 # Specs 🖥 :
            Processor: AMD Ryzen 7 5800X 8-Core Processor (16 CPUs), ~3.8GHz
        System Memory: 65536MB RAM DDR4 3600Mhz           
@@ -143,5 +145,3 @@ D3.js to visualize the data and made interactive using Observable.
 ![image](https://user-images.githubusercontent.com/25123512/114805370-2c190780-9da3-11eb-979d-bac6e1405029.png)
 ![image](https://user-images.githubusercontent.com/25123512/114805603-90d46200-9da3-11eb-843b-97d65f011aa3.png)
 ![image](https://user-images.githubusercontent.com/25123512/114805684-b497a800-9da3-11eb-9f6e-7ac49b1d2f72.png)
-
-![](https://komarev.com/ghpvc/?username=BlackPhlox&label=Views)
