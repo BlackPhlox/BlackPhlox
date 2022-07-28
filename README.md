@@ -2,11 +2,13 @@
 <a href="https://github.com/BlackPhlox/BlackPhlox"><img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hello.svg" width="815" height="300" alt="hello-i-am-mikkel"></a>
 </div>
 
-[![Magic](https://img.shields.io/badge/darkphlox-Twitter-1fc7e1?style=for-the-badge)](https://twitter.com/darkphlox)
+[![Magic](https://img.shields.io/badge/@darkphlox-Twitter-1fc7e1?style=for-the-badge)](https://twitter.com/darkphlox)
 [![Magic](https://img.shields.io/badge/Milr%20Hub-Notion-7F7DE9?style=for-the-badge)](https://www.notion.so/MILR-HUB-44f60c2537c94b44b1ceb31e14c2cf02)
-[![Magic](https://img.shields.io/badge/BlackPhlox-YouTube-e87de0?style=for-the-badge)](https://www.youtube.com/channel/UCoseHr0GVFw6aWgfpQDWKpA/featured)
 [![Magic](https://img.shields.io/badge/milr.dk-Web-e2847a?style=for-the-badge)](https://milr.dk)
-[![Magic](https://img.shields.io/badge/DEV.TO-Blogs-7be5b0?style=for-the-badge)](https://dev.to/blackphlox)
+[![Magic](https://img.shields.io/badge/BlackPhlox-YouTube-ff5e5e?style=for-the-badge)](https://www.youtube.com/channel/UCoseHr0GVFw6aWgfpQDWKpA/featured)
+![](https://komarev.com/ghpvc/?username=BlackPhlox&label=Views%20%20%20%20%20&style=for-the-badge&color=e87de0)
+
+<!--[![Magic](https://img.shields.io/badge/DEV.TO-Blogs-7be5b0?style=for-the-badge)](https://dev.to/blackphlox)--->
 
 # Stats 📊 :
 <div>
@@ -19,7 +21,7 @@
 
  </div>
  
-![](https://komarev.com/ghpvc/?username=BlackPhlox&label=Views)
+
 # Specs 🖥 :
            Processor: AMD Ryzen 7 5800X 8-Core Processor (16 CPUs), ~3.8GHz
        System Memory: 65536MB RAM DDR4 3600Mhz           
