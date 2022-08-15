@@ -2,48 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@keyframes rotate_sheep {
-					0% {
-                    	-moz-transform: rotate(18deg) translate(95px,-45px);
-                        -webkit-transform: rotate(18deg) translate(95px,-45px);
-                        -o-transform: rotate(18deg) translate(95px,-45px);
-                        -ms-transform: rotate(18deg) translate(95px,-45px);
-						transform: rotate(18deg) translate(95px,-45px);
-                        text-shadow:
-							0 30px 5px rgba(0, 0, 0, 0.1);
-					}
-                    50% {
-                    	text-shadow:
-							0 55px 5px rgba(0, 0, 0, 0.1);
-                    }
-   
-					100% {
-                    	-moz-transform: rotate(-18deg) translate(-95px,-45px);
-                        -webkit-transform: rotate(-18deg) translate(-95px,-45px);
-                        -o-transform: rotate(-18deg) translate(-95px,-45px);
-                        -ms-transform: rotate(-18deg) translate(-95px,-45px);
-						transform: rotate(-18deg) translate(-95px,-45px);
-                        text-shadow:
-							0 30px 5px rgba(0, 0, 0, 0.1);
-					}
-				}
 				
-				@keyframes spin_cam {
-					0% {
-                      	-moz-transform: rotateY(-360deg) rotateZ(10deg);
-                        -webkit-transform: rotateY(-360deg) rotateZ(10deg);
-                        -o-transform: rotateY(-360deg) rotateZ(10deg);
-                        -ms-transform: rotateY(-360deg) rotateZ(10deg);
-                        transform: rotateY(-360deg) rotateZ(10deg);
-					}
-					100% {
-						-moz-transform: rotateY(360deg) rotateZ(10deg);
-                        -webkit-transform: rotateY(360deg) rotateZ(10deg);
-                        -o-transform: rotateY(360deg) rotateZ(10deg);
-                        -ms-transform: rotateY(360deg) rotateZ(10deg);
-                        transform: rotateY(360deg) rotateZ(10deg);
-					}
-				}
 				.container {
 					font-family:
 						system-ui,
@@ -70,17 +29,14 @@
                     
 				}
 								
-				.right-container {
-                	animation: spin_cam linear 16s infinite alternate;
-					position: absolute;
-				}
+				
                 
                 .right-container .cam {
-                	-moz-transform: translate(-0px,-20px);
-                    -webkit-transform: translate(-0px,-20px);
-                    -o-transform: translate(-0px,-20px);
-                    -ms-transform: translate(-0px,-20px);
-                	transform: translate(-0px,-20px);
+                	-moz-transform: translate(-80px,-100px);
+                    -webkit-transform: translate(-80px,-100px);
+                    -o-transform: translate(-80px,-100px);
+                    -ms-transform: translate(-80px,-100px);
+                	transform: rotateZ(10deg) translate(-100px,-85px);
                 }
 				.sheep-base {
 					font-size: 50px;
@@ -90,45 +46,11 @@
 				}
                 
                 .rotate {
-					animation: rotate ease-in-out 8s infinite;
-				}
-                
-                @keyframes rotate {                   
-                    0% {
-                    	-moz-transform: rotateY(0deg);
-                        -webkit-transform: rotateY(0deg);
-                        -o-transform: rotateY(0deg);
-                        -ms-transform: rotateY(0deg);
-                        transform: rotateY(0deg);
-					}
-                    45% {
-                    	-moz-transform: rotateY(0deg);
-                        -webkit-transform: rotateY(0deg);
-                        -o-transform: rotateY(0deg);
-                        -ms-transform: rotateY(0deg);
-                        transform: rotateY(0deg);
-					}
-                    50% {
-                    	-moz-transform: rotateY(-180deg);
-                        -webkit-transform: rotateY(-180deg);
-                        -o-transform: rotateY(-180deg);
-                        -ms-transform: rotateY(-180deg);
-                        transform: rotateY(-180deg);
-					}
-                    95% {
-                    	-moz-transform: rotateY(-180deg);
-                        -webkit-transform: rotateY(-180deg);
-                        -o-transform: rotateY(-180deg);
-                        -ms-transform: rotateY(-180deg);
-                    	transform: rotateY(-180deg);
-                    }
-					100% {
-                    	-moz-transform: rotateY(0deg);
-                        -webkit-transform: rotateY(0deg);
-                        -o-transform: rotateY(0deg);
-                        -ms-transform: rotateY(0deg);
-                    	transform: rotateY(0deg);
-					}
+					-moz-transform: rotateY(180deg);
+                    -webkit-transform: rotateY(180deg);
+                    -o-transform: rotateY(180deg);
+                    -ms-transform: rotateY(180deg);
+                    transform: rotateY(180deg);
 				}
 				
 				.cam {
