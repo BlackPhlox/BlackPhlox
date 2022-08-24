@@ -51,6 +51,7 @@
                     -o-transform: rotateY(180deg);
                     -ms-transform: rotateY(180deg);
                     transform: rotateY(180deg);
+                    animation: cart_anim ease-in-out 4s infinite alternate;
 				}
 				
 				.cam {
@@ -71,56 +72,52 @@
                     font-size: 30px;
                     margin-left: -20px;
                     transform: translate(0px,-200px);
-                    animation: bevy_anim linear 10s infinite;
+                    animation: bevy_anim linear 4s infinite;
 				}
+                @keyframes cart_anim {
+					0% {
+                    	-moz-transform: translate(180px,-80px);
+                        -webkit-transform: translate(180px,-80px);
+                        -o-transform: translate(180px,-80px);
+                        -ms-transform: translate(180px,-80px);
+                        transform: translate(100px,-10px) rotateY(180deg);
+					}
+					100% {
+                    	-moz-transform: translate(-180px,-80px);
+                        -webkit-transform: translate(-180px,-80px);
+                        -o-transform: translate(-180px,-80px);
+                        -ms-transform: translate(-180px,-80px);
+                    	transform: translate(-100px,-10px) rotateY(180deg);
+					}
+				}
+                
                 @keyframes bevy_anim {
 					0% {
-                    	-moz-transform: translate(120px,-85px);
-                        -webkit-transform: translate(120px,-85px);
-                        -o-transform: translate(120px,-85px);
-                        -ms-transform: translate(120px,-85px);
-                        transform: translate(120px,-85px);
+                    	-moz-transform: translate(180px,-80px);
+                        -webkit-transform: translate(180px,-80px);
+                        -o-transform: translate(180px,-80px);
+                        -ms-transform: translate(180px,-80px);
+                        transform: translate(180px,-80px);
 					}
-                    45% {
-                    	-moz-transform: translate(120px,-85px);
-                        -webkit-transform: translate(120px,-85px);
-                        -o-transform: translate(120px,-85px);
-                        -ms-transform: translate(120px,-85px);
-                    	transform: translate(-120px,-85px);
-					}
-                    50% {
-                    	-moz-transform: translate(-120px,-85px)rotateY(180deg);
-                        -webkit-transform: translate(-120px,-85px)rotateY(180deg);
-                        -o-transform: translate(-120px,-85px)rotateY(180deg);
-                        -ms-transform: translate(-120px,-85px)rotateY(180deg);
-                    	transform: translate(-120px,-85px)rotateY(180deg);
-					}
-                    95% {
-                    	-moz-transform: translate(120px,-85px)rotateY(180deg);
-                        -webkit-transform: translate(120px,-85px)rotateY(180deg);
-                        -o-transform: translate(120px,-85px)rotateY(180deg);
-                        -ms-transform: translate(120px,-85px)rotateY(180deg);
-                    	transform: translate(120px,-85px)rotateY(180deg);
-                    }
 					100% {
-                    	-moz-transform: translate(120px,-85px);
-                        -webkit-transform: translate(120px,-85px);
-                        -o-transform: translate(120px,-85px);
-                        -ms-transform: translate(120px,-85px);
-                    	transform: translate(120px,-85px);
+                    	-moz-transform: translate(-180px,-80px);
+                        -webkit-transform: translate(-180px,-80px);
+                        -o-transform: translate(-180px,-80px);
+                        -ms-transform: translate(-180px,-80px);
+                    	transform: translate(-180px,-80px);
 					}
 				}
                 
                 .bevy:nth-child(1) {
-                  margin-top: 85px;
+                  margin-top: 135px;
                 }
                 .bevy:nth-child(2) {
-                  margin-top: 70px;
+                  margin-top: 145px;
                   animation-delay: 3.8s;
                 }
                 .bevy:nth-child(3) {
-                  margin-top: 80px;
-                  animation-delay: 6.8s;
+                  margin-top: 155px;
+                  animation-delay: 4.8s;
                 }
                 
                 .cloud {
@@ -168,7 +165,7 @@
                 	position: absolute;
 					font-size: 30px;
                     transform: translate(0px,2000px);
-                    animation: mountain_anim linear 5s infinite;
+                    animation: mountain_anim linear 20s infinite;
 					text-shadow:
 						0 65px 5px rgba(0, 0, 0, 0.1);
 				}
@@ -219,26 +216,27 @@
                 
                 @keyframes rotate_sun {
 					0% {
-                    	-moz-transform: rotate(5deg);
-                        -webkit-transform: rotate(5deg);
-                        -o-transform: rotate(5deg);
-                        -ms-transform: rotate(5deg);
-						transform: rotate(5deg);
+                    	-moz-transform: translate(180px,-80px);
+                        -webkit-transform: translate(180px,-80px);
+                        -o-transform: translate(180px,-80px);
+                        -ms-transform: translate(180px,-80px);
+                        transform: translate(180px,-80px);
 					}
 					100% {
-                    	-moz-transform: rotate(-5deg);
-                        -webkit-transform: rotate(-5deg);
-                        -o-transform: rotate(-5deg);
-                        -ms-transform: rotate(-5deg);
-						transform: rotate(-5deg);
+                    	-moz-transform: translate(-180px,-80px);
+                        -webkit-transform: translate(-180px,-80px);
+                        -o-transform: translate(-180px,-80px);
+                        -ms-transform: translate(-180px,-80px);
+                    	transform: translate(-180px,-80px);
 					}
 				}
+                
                 .sun {
                 	font-size: 30px;
-                	margin-top: -30px;
-                    margin-left: 100px;
+                	margin-top: 50px;
+                    margin-left: 0px;
                 	position: absolute;
-                	animation: rotate_sun ease-in-out 1.0s infinite alternate;
+                	animation: rotate_sun ease-in-out 28.0s infinite;
                 }
                 .mountain {
                 	font-size: 60px;
@@ -249,13 +247,14 @@
 						0 5px 5px rgba(0, 0, 0, 0.3);
                 }
 			</style>
-			<div class="container">            	
+			<div class="container">
+            	<div class="sun">🌞</div>
             	<div class="cloud">☁</div>                
                 <div class="cloud">☁</div>
                 
                 <div class="cloud">☁</div>
                 <!--⛰🏞🏔-->
-                <div class="sun">🌞</div>
+                
                 <div class="mountain">🗻</div>
                 <div class="mountain">🗻</div>
                 <div class="mountain">🗻</div>
@@ -322,7 +321,6 @@
                 <div class="cloud">☁</div>
 				<div class="sheep-base"><div class="rotate">🐑</div></div>
                 <div class="sheep-base"><div class="rotate">🛒</div></div>
-                <div class="fence">🚧</div> 
 				<div class="right-container">
 					<div class="cam">🎥</div>
 				</div>
