@@ -28,21 +28,33 @@
 					text-align: center;
                     
 				}
-								
-				
-                
+
                 .right-container .cam {
-                	-moz-transform: translate(-80px,-100px);
-                    -webkit-transform: translate(-80px,-100px);
-                    -o-transform: translate(-80px,-100px);
-                    -ms-transform: translate(-80px,-100px);
-                	transform: rotateZ(10deg) translate(-100px,-85px);
+                    animation: cam_anim ease-in-out 4s infinite alternate;
                 }
+                
+                @keyframes cam_anim {
+					0% {
+                        transform: rotateZ(10deg) translate(-20px,-100px);
+					}
+					100% {
+                    	transform: rotateZ(10deg) translate(-190px,-75px);
+					}
+				}
+                
 				.sheep-base {
 					font-size: 50px;
 					text-shadow:
 						0 12px 5px rgba(0, 0, 0, 0.1);
 					animation: rotate_sheep ease-in-out 4s infinite alternate;
+				}
+                
+                .sheep {
+                	-moz-transform: translate(-10px,40px);
+                    -webkit-transform: translate(-10px,40px);
+                    -o-transform: translate(-10px,40px);
+                    -ms-transform: translate(-10px,40px);
+					transform: translate(-10px,40px);
 				}
                 
                 .rotate {
@@ -200,7 +212,7 @@
                   animation-delay: 3s;
                 }
                 .cloud:nth-child(4) {
-                  top: 50px;
+                  top: 70px;
                   animation-delay: 1s;
                   /*animation-duration: 7s;*/
                 }
@@ -319,7 +331,7 @@
                 <div class="cloud">☁</div>
                 <div class="cloud">☁</div>
                 <div class="cloud">☁</div>
-				<div class="sheep-base"><div class="rotate">🐑</div></div>
+				<div class="sheep-base"><div class="rotate"><div class="sheep">🐑</div></div></div>
                 <div class="sheep-base"><div class="rotate">🛒</div></div>
 				<div class="right-container">
 					<div class="cam">🎥</div>
