@@ -46,6 +46,30 @@ See a project you like? Star the repo to increase the chances for me to continue
 
 ![image](https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/hackerman.svg)
 
+
+## [Bevy](https://github.com/BevyEngine/bevy) Plugins
+
+### [bevy_config_cam](https://github.com/BlackPhlox/bevy_config_cam) 📹🔧
+Plugin containing a suite of configurable cameras
+![bevy config cam banner](https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/config_cam.svg)
+
+### [bevy_dolly](https://github.com/BlackPhlox/bevy_dolly) 📹🐑
+Composable Camera Handling using [dolly](https://github.com/h3r2tic/dolly)
+<div align="left">
+<a href="https://github.com/BlackPhlox/bevy_dolly"><img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/bevy_dolly_1.svg" alt="bevy dolly static"></a>
+    <a href="https://github.com/BlackPhlox/bevy_dolly"><img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/bevy_dolly_dev_0.svg" alt="bevy dolly pinned">
+</div>
+
+### [bevy_midi](https://github.com/BlackPhlox/bevy_midi) 🎹🎶
+Plugin for sending and reciving midi data
+![bevy_midi banner](https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/bevy_midi.svg)
+
+### [bevy_osc](https://github.com/BlackPhlox/bevy_osc) 🔣🔢
+Plugin for sending and reciving osc data
+
+## [Potoo](https://github.com/BlackPhlox/potoo) 👻🐦
+An experimental editor for [Bevy](https://github.com/BevyEngine/bevy)
+
 ## [wt-editor-cli](https://github.com/BlackPhlox/wt-editor-cli)
 [![wt-editor-cli-showcase](https://user-images.githubusercontent.com/25123512/68077919-ba2a4980-fdcc-11e9-879f-6e1fecb6bb20.gif)](https://github.com/BlackPhlox/wt-editor-cli)
 
@@ -70,11 +94,11 @@ See a project you like? Star the repo to increase the chances for me to continue
 ![image](https://user-images.githubusercontent.com/25123512/114582385-d4827b00-9c80-11eb-9e3e-1a7e0af7c673.png)
 
 ## [CryptoGuard](https://cryptera.com/cryptoguard/)
-Developed [CryptoGuard](https://cryptera.com/cryptoguard/) for Cryptera. SAAS that allows their customers to do secure provisioning remotely as a service without requiring IoT devices to be transported to get firmware loaded.
+Developed [CryptoGuard](https://cryptera.com/cryptoguard/) for Cryptera. SAAS that allows their customers to do secure provisioning remotely as a service without requiring IoT devices to be transported to get firmware loaded.</br>
 
-<img align="left" src="https://14qkea2ywuue3c2a2q214489-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/FirmwareGuard-Industiral-iot3.png" alt="crypto guard" width="250"/>
+<img align="left" src="https://user-images.githubusercontent.com/25123512/229927592-77b792da-2a95-477d-9120-191f6fbd7c67.png" alt="cryptoguard" />
 
-</br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br>
 </br>
 
 ## [Mud](https://mud.rs)
