@@ -49,6 +49,8 @@ See a project you like? Star the repo to increase the chances for me to continue
 
 ## [Bevy](https://github.com/BevyEngine/bevy) Plugins
 
+<a href="https://github.com/BevyEngine/bevy"><img src="https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/bevy.svg" alt="bevy icon"></a>
+
 ### [bevy_config_cam](https://github.com/BlackPhlox/bevy_config_cam) 📹🔧
 Plugin containing a suite of configurable cameras
 ![bevy config cam banner](https://raw.githubusercontent.com/BlackPhlox/BlackPhlox/master/config_cam.svg)
