@@ -31,8 +31,10 @@
 # Game Jams 🍯 :
 
 -  Participated - [GMTK 2019](https://itch.io/jam/gmtk-2019)
--  [Hosted](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) & Participated - [Level One Jam 2020](https://levelonejam.com/2020) - [itch.io](https://itch.io/jam/level-one-jam-2020)
--  [Hosting](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) - [Level One Jam 2022](https://levelonejam.com)
+-  [Organizing/Hosted](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) & Participated - [Level One Jam 2020](https://levelonejam.com/2020) - [itch.io](https://itch.io/jam/level-one-jam-2020)
+-  [Organizing/Hosting](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) - [Level One Jam 2022](https://levelonejam.com)
+-  [Organizing/Hosting](https://github.com/BlackPhlox/BlackPhlox/blob/master/README.md#level-one-jam) - [Level One Jam 2024](https://levelonejam.com)
+
 # Hackathon ⚡ :
 - ITU Creative Coding, Developed a [Co-op Mine Detector Game](https://github.com/BlackPhlox/MineDetector) 
 
