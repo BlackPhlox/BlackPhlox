@@ -25,8 +25,8 @@
 # Specs 🖥 :
            Processor: AMD Ryzen 7 5800X 8-Core Processor (16 CPUs), ~3.8GHz
        System Memory: 65536MB RAM DDR4 3600Mhz           
-       Graphics Card: NVIDIA GeForce GTX 1070
-    Dedicated Memory: 8088 MB
+       Graphics Card: NVIDIA GeForce RTX 4070
+    Dedicated Memory: 12288 MB
 
 # Game Jams 🍯 :
 
