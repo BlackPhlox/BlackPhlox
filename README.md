@@ -12,7 +12,7 @@
 
 # Stats 📊 :
 <div>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphlox&layout=compact&theme=dracula&hide_border=true&count_private=true&cache_seconds=7200&border_radius=0&include_all_commits=true&layout=compact&title_color=FFF&text_color=FFF&bg_color=0,2070bc,000&icon_color=2D98FF&langs_count=7&count_private=true&custom_title=GH+Alltime+Prog.+Lang.+Used" alt="total-github-programming-language-ratio" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackphlox&layout=compact&theme=dracula&hide_border=true&count_private=true&cache_seconds=7200&border_radius=0&include_all_commits=true&title_color=FFF&text_color=FFF&bg_color=0,2070bc,000&icon_color=2D98FF&langs_count=7&count_private=true&custom_title=GH+Alltime+Prog.+Lang.+Used" alt="total-github-programming-language-ratio" />
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackphlox&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=7200&&border_radius=0&include_all_commits=true&layout=compact&title_color=000&text_color=FFF&bg_color=0,000,2D98FF&icon_color=2D98FF&hide_title=true&line_height=22" alt="blackphlox-github-stats" />
  <a href="https://wakatime.com/@BlackPhlox"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackPhlox&theme=dracula&hide_border=true&langs_count=10&cache_seconds=7200&border_radius=0&include_all_commits=true&layout=compact&title_color=FFF&text_color=FFF&bg_color=0,000,2D98FF&icon_color=2D98FF&custom_title=WakaTime%20Stats" alt="blackphlox-wakatime" /></a>
 
